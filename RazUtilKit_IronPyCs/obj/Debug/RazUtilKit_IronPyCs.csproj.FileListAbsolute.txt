@@ -1,0 +1,8 @@
+D:\Development\Atestat\RazUtilKit_IronPyCs\RazUtilKit_IronPyCs\bin\Debug\RazUtilKit_IronPyCs.exe.config
+D:\Development\Atestat\RazUtilKit_IronPyCs\RazUtilKit_IronPyCs\bin\Debug\RazUtilKit_IronPyCs.exe
+D:\Development\Atestat\RazUtilKit_IronPyCs\RazUtilKit_IronPyCs\bin\Debug\RazUtilKit_IronPyCs.pdb
+D:\Development\Atestat\RazUtilKit_IronPyCs\RazUtilKit_IronPyCs\obj\Debug\RazUtilKit_IronPyCs.csprojResolveAssemblyReference.cache
+D:\Development\Atestat\RazUtilKit_IronPyCs\RazUtilKit_IronPyCs\obj\Debug\RazUtilKit_IronPyCs.Properties.Resources.resources
+D:\Development\Atestat\RazUtilKit_IronPyCs\RazUtilKit_IronPyCs\obj\Debug\RazUtilKit_IronPyCs.csproj.GenerateResource.Cache
+D:\Development\Atestat\RazUtilKit_IronPyCs\RazUtilKit_IronPyCs\obj\Debug\RazUtilKit_IronPyCs.exe
+D:\Development\Atestat\RazUtilKit_IronPyCs\RazUtilKit_IronPyCs\obj\Debug\RazUtilKit_IronPyCs.pdb

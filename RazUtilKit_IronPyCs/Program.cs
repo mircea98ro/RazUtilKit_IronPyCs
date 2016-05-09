@@ -16,7 +16,13 @@ namespace RazUtilKit_IronPyCs
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+
+            using (TrayIcon ti = new TrayIcon())
+            {
+                ti.Display();
+                Application.Run();
+            }
+            //Application.Run(new Form1());
         }
     }
 }
