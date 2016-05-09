@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazUtilKit_IronPyCs", "RazU
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F2B49752-FA00-45B3-A0D5-DC6DD5942E81}"
 	ProjectSection(SolutionItems) = preProject
+		RazUtilKit_IronPyCs\IronPyDLLS\IronPython.dll = RazUtilKit_IronPyCs\IronPyDLLS\IronPython.dll
+		RazUtilKit_IronPyCs\IronPyDLLS\IronPython.Modules.dll = RazUtilKit_IronPyCs\IronPyDLLS\IronPython.Modules.dll
+		RazUtilKit_IronPyCs\IronPyDLLS\Microsoft.Dynamic.dll = RazUtilKit_IronPyCs\IronPyDLLS\Microsoft.Dynamic.dll
+		RazUtilKit_IronPyCs\IronPyDLLS\Microsoft.Scripting.dll = RazUtilKit_IronPyCs\IronPyDLLS\Microsoft.Scripting.dll
+		RazUtilKit_IronPyCs\IronPyDLLS\Microsoft.Scripting.Metadata.dll = RazUtilKit_IronPyCs\IronPyDLLS\Microsoft.Scripting.Metadata.dll
 		RazUtilKit_IronPyCs\bin\Debug\Settings.ini = RazUtilKit_IronPyCs\bin\Debug\Settings.ini
 	EndProjectSection
 EndProject

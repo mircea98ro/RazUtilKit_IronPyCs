@@ -6,3 +6,8 @@ D:\Development\Atestat\RazUtilKit_IronPyCs\RazUtilKit_IronPyCs\obj\Debug\RazUtil
 D:\Development\Atestat\RazUtilKit_IronPyCs\RazUtilKit_IronPyCs\obj\Debug\RazUtilKit_IronPyCs.csproj.GenerateResource.Cache
 D:\Development\Atestat\RazUtilKit_IronPyCs\RazUtilKit_IronPyCs\obj\Debug\RazUtilKit_IronPyCs.exe
 D:\Development\Atestat\RazUtilKit_IronPyCs\RazUtilKit_IronPyCs\obj\Debug\RazUtilKit_IronPyCs.pdb
+D:\Development\Atestat\RazUtilKit_IronPyCs\RazUtilKit_IronPyCs\bin\Debug\IronPython.dll
+D:\Development\Atestat\RazUtilKit_IronPyCs\RazUtilKit_IronPyCs\bin\Debug\IronPython.Modules.dll
+D:\Development\Atestat\RazUtilKit_IronPyCs\RazUtilKit_IronPyCs\bin\Debug\Microsoft.Dynamic.dll
+D:\Development\Atestat\RazUtilKit_IronPyCs\RazUtilKit_IronPyCs\bin\Debug\Microsoft.Scripting.dll
+D:\Development\Atestat\RazUtilKit_IronPyCs\RazUtilKit_IronPyCs\bin\Debug\Microsoft.Scripting.Metadata.dll
